@@ -2,4 +2,4 @@
 title: "About This Website"
 ---
 
-More about this website.
+This is a website created by Clara R. Howell. If you've found your way here, congratulations. There is nothing else. 
