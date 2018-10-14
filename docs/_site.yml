@@ -9,3 +9,5 @@ navbar:
       href: about.html
     - text: "People"
       href: people.html
+    - text: "Fun Facts"
+      href: facts.html
